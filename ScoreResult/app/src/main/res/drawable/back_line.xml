@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <!--セルの背景色-->
+    <solid android:color="#FFFFFF" />
+    <!--枠線の太さ-->
+    <stroke android:width="4px" android:color="#000000" />
+    <padding android:left="0px" android:top="0px"
+        android:right="0px" android:bottom="0px" />
+    <corners android:radius="1px" />
+
+</shape>

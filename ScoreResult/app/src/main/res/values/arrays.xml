@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name = "game1">
+        <item>0403</item>
+        <item>城東高校</item>
+        <item>44-49</item>
+        <item></item>
+    </string-array>
+    <string-array name = "game2">
+        <item>0903</item>
+        <item>阿南工業高等専門学校</item>
+        <item>33-4</item>
+        <item>途中○○が捻挫で交代</item>
+    </string-array>
+    <string-array name = "game3">
+        <item>0831</item>
+        <item>科学技術専門学校</item>
+        <item>63-43</item>
+        <item></item>
+    </string-array>
+
+</resources>
